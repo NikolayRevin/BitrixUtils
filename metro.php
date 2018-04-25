@@ -7,7 +7,7 @@ use Bitrix\Main\Web\Json;
 use Bitrix\Main\SystemException;
 
 /**
- * Получение станции метро по адресу/координатам
+ * Получение ближайшей станции метро по адресу или координатам
  * 
  * @author Nikolai Revin
  *
